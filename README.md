@@ -14,9 +14,9 @@ With repeated request we have uploaded the code for the paper
 ```
 
 #Results
-| Results On Color Haze | 
+| Learned structuring elements| 
 |:-------------:|
-| ![Results](https://raw.githubusercontent.com/ranjanZ/Mophological-Opening-Closing-Net/master/src_shape/data/natural_img/Haze_1.png)| 
+| ![Results](https://raw.githubusercontent.com/ranjanZ/Mophological-Opening-Closing-Net/master/src_shape/data/natural_img/sim.png)| 
 
 
 
