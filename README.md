@@ -29,10 +29,12 @@ Thanks,
 BibTeX:
 ```
 @inproceedings{mondal2018image,
-  title={Image Dehazing by Joint Estimation of Transmittance and Airlight using Bi-Directional Consistency Loss Minimized FCN},
-  author={Mondal, Ranjan and Santra, Sanchayan and Chanda, Bhabatosh},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops},
-  pages={920--928},
-  year={2018}
+  title={Image Restoration by Learning Morphological Opening-Closing Network },
+  author={Mondal, Ranjan and Shankar Dey, Moni   and Chanda, Bhabatosh},
+  journal={Mathematical Morphology-Theory and Applications},
+  number={1},
+  pages={87--107},
+  year={2020},
+  publisher={De Gruyter}
 }
 ```
