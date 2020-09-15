@@ -16,11 +16,15 @@ With repeated request we have uploaded the code for the paper
 #Results
 | Results On Color Haze | 
 |:-------------:|
-| ![Results](https://raw.githubusercontent.com/ranjanZ/Mophological-Opening-Closing-Net/master/src_shape/data/natural_img/Color_rain.png)| 
+| ![Results](https://raw.githubusercontent.com/ranjanZ/Mophological-Opening-Closing-Net/master/src_shape/data/natural_img/Haze_1.png)| 
 
-| Results On Color Rain | 
+
+
+
+#Results
+| Results On Color Haze | 
 |:-------------:|
-| ![Results](https://raw.githubusercontent.com/ranjanZ/Mophological-Opening-Closing-Net/master/src_shape/data/natural_img/Haze_1.png| 
+| ![Results](https://raw.githubusercontent.com/ranjanZ/Mophological-Opening-Closing-Net/master/src_shape/data/natural_img/Haze_1.png)| 
 
 
 
