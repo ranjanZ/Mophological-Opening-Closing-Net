@@ -22,7 +22,7 @@ With repeated request we have uploaded the code for the paper
 
 
 #Results
-| Results On Color Haze | 
+| Results On real color hazy images| 
 |:-------------:|
 | ![Results](https://raw.githubusercontent.com/ranjanZ/Mophological-Opening-Closing-Net/master/src_shape/data/natural_img/Haze_1.png)| 
 
