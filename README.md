@@ -13,11 +13,17 @@ With repeated request we have uploaded the code for the paper
 ├── src_shape   # directory contains the code for simulation 
 ```
 
+#Results
+| Results On Color Haze | 
+|:-------------:|
+| ![Results](https://raw.githubusercontent.com/ranjanZ/Mophological-Opening-Closing-Net/master/src_shape/data/natural_img/Color_rain.pngg)| 
+
+
 
  
  
-#Note
-Please note that the code is not cleaned. All the research work including all the simulation(extra research work) is added here. We will 
+##Note
+We are sorry that the code is not cleaned. All the research work including all the simulation(extra research work) is added here. We will 
 clean the code and send pull request soon.
 
 
