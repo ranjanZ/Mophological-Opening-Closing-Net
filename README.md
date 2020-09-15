@@ -30,10 +30,9 @@ With repeated request we have uploaded the code for the paper
 
  
  
-##Note
+## Note
 We are sorry that the code is not cleaned. All the research work including all the simulation(extra research work) is added here. We will 
 clean the code and send pull request soon.
-
 
 
 
@@ -51,4 +50,15 @@ BibTeX:
   year={2020},
   publisher={De Gruyter}
 }
+
+@inproceedings{mondal2019morphological,
+  title={Morphological networks for image de-raining},
+  author={Mondal, Ranjan and Purkait, Pulak and Santra, Sanchayan and Chanda, Bhabatosh},
+  booktitle={International Conference on Discrete Geometry for Computer Imagery},
+  pages={262--275},
+  year={2019},
+  organization={Springer}
+}
+
+
 ```
