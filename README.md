@@ -28,7 +28,7 @@ Thanks,
 
 BibTeX:
 ```
-@inproceedings{mondal2018image,
+@inproceedings{mondal2020image,
   title={Image Restoration by Learning Morphological Opening-Closing Network },
   author={Mondal, Ranjan and Shankar Dey, Moni   and Chanda, Bhabatosh},
   journal={Mathematical Morphology-Theory and Applications},
